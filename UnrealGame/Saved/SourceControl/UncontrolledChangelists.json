@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Captain/Documents/UnrealProjects/jeuxVoitureUE5/UnrealGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Captain/Documents/UnrealProjects/jeuxVoitureUE5/UnrealGame/Content/RacingGame/CheckPoints/BP_checkPoint.uasset",
+				"C:/Users/Captain/Documents/UnrealProjects/jeuxVoitureUE5/UnrealGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/76/YJP85A4P2ZE6QYF4TIS7MO.uasset",
+				"C:/Users/Captain/Documents/UnrealProjects/jeuxVoitureUE5/UnrealGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/DL/ED3F4TGBSW3L9M8LG8DQ00.uasset",
+				"C:/Users/Captain/Documents/UnrealProjects/jeuxVoitureUE5/UnrealGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/DG/CCUME08KANOHWKWFIKMK9K.uasset",
+				"C:/Users/Captain/Documents/UnrealProjects/jeuxVoitureUE5/UnrealGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/EP/RMAHYI5FO0G0VK249N3WX7.uasset",
+				"C:/Users/Captain/Documents/UnrealProjects/jeuxVoitureUE5/UnrealGame/Content/RacingGame/Framework/GM_RacingGame.uasset",
+				"C:/Users/Captain/Documents/UnrealProjects/jeuxVoitureUE5/UnrealGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/UC/XQHO831BJTG4W7TUJLY8PK.uasset",
+				"C:/Users/Captain/Documents/UnrealProjects/jeuxVoitureUE5/UnrealGame/Content/VehicleTemplate/Blueprints/VehicleUI.uasset",
+				"C:/Users/Captain/Documents/UnrealProjects/jeuxVoitureUE5/UnrealGame/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"C:/Users/Captain/Documents/UnrealProjects/jeuxVoitureUE5/UnrealGame/Content/Timer.uasset"
+			]
+		}
+	]
+}
